@@ -5,10 +5,10 @@
 *********************************************************************************************************************/
 
 // Wifi
-#define IOT_CONFIG_WIFI_SSID      "2001"
-#define IOT_CONFIG_WIFI_PASSWORD  "19821968"
+#define IOT_CONFIG_WIFI_SSID      "SSID"
+#define IOT_CONFIG_WIFI_PASSWORD  "PASSWORD"
 
 // Azure IoT
-#define IOT_CONFIG_IOTHUB_FQDN    "ehabhub.azure-devices.net"
-#define IOT_CONFIG_DEVICE_ID      "ehabdev"
-#define IOT_CONFIG_DEVICE_KEY     "mHTh4VFmxGpPHXKuI2TGCDsPezFK53gTFMloOd5PB1Y="
+#define IOT_CONFIG_IOTHUB_FQDN    "IOTHUB"
+#define IOT_CONFIG_DEVICE_ID      "DEVICE_ID"
+#define IOT_CONFIG_DEVICE_KEY     "DEVICE_KEY"
